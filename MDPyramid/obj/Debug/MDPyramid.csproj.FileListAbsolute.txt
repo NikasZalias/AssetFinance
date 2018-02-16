@@ -1,0 +1,14 @@
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\MDPyramid\bin\Debug\MDPyramid.exe.config
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\MDPyramid\bin\Debug\MDPyramid.exe
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\MDPyramid\bin\Debug\MDPyramid.pdb
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\MDPyramid\obj\Debug\MDPyramid.csprojResolveAssemblyReference.cache
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\MDPyramid\obj\Debug\MDPyramid.csproj.CoreCompileInputs.cache
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\MDPyramid\obj\Debug\MDPyramid.exe
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\MDPyramid\obj\Debug\MDPyramid.pdb
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\AssetFinance\MDPyramid\bin\Debug\MDPyramid.exe.config
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\AssetFinance\MDPyramid\bin\Debug\MDPyramid.exe
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\AssetFinance\MDPyramid\bin\Debug\MDPyramid.pdb
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\AssetFinance\MDPyramid\obj\Debug\MDPyramid.csprojResolveAssemblyReference.cache
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\AssetFinance\MDPyramid\obj\Debug\MDPyramid.csproj.CoreCompileInputs.cache
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\AssetFinance\MDPyramid\obj\Debug\MDPyramid.exe
+C:\Users\nikod\OneDrive\Stalinis kompiuteris\MDPyramid\AssetFinance\MDPyramid\obj\Debug\MDPyramid.pdb
